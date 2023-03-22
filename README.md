@@ -3,8 +3,9 @@
 YouTuber
 Twitch streamer
 Volunteer translation into Ukrainian.
+I want as many projects as possible to be in Ukrainian, so I will work hard on this.
 
-I want as many projects as possible to be in Ukrainian, so I will work hard on this. 
+
 
 🔭 I’m currently working on this mod translation for minecraft
 | Mod                	| Status                                                                                                                                         	|

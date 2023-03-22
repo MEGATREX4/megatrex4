@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on translation minecraft mods
-| ###Mod                	| ###Status                                                                                                                                         	|
+| Mod                	| Status                                                                                                                                         	|
 |-----------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------	|
 | Apotheosis            	| [![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)](https://crowdin.com/project/apotheosis-uk-ua)                             	|
 | Create Addition       	| [![Crowdin](https://badges.crowdin.net/createadditionua/localized.svg)](https://crowdin.com/project/createadditionua)                             	|

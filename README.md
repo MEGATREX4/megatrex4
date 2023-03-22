@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-YouTuber
-Twitch streamer
-Volunteer translation into Ukrainian.
-I want as many projects as possible to be in Ukrainian, so I will work hard on this.
+YouTuber<br/>
+Twitch streamer<br />
+Volunteer translation into Ukrainian.<br/>
+I want as many projects as possible to be in Ukrainian, so I will work hard on this.<br/>
 
 
 

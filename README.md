@@ -17,7 +17,7 @@ I want as many projects as possible to be in Ukrainian, so I will work hard on t
 |                       	|                                                                                                                                                   	|
 
 * 👯 I’m looking to collaborate on everyone
-* 💬 Ask me about translte ur mod
+* 💬 Ask me about translate ur mod
 * 📫 How to reach me: megatrex4@yahoo.com
 * ⚡ Fun fact: i like anime.
 

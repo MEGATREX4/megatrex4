@@ -47,3 +47,5 @@ I want as many projects as possible to be in Ukrainian, so I will work hard on t
 |Configured|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
 |Farmer's Respite(little bit)|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
 |Crafting Station|![Crowdin](https://badges.crowdin.net/apotheosis-uk-ua/localized.svg)|
+|Nether's Delight|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|
+|It Takes a Pillage|![Crowdin](https://badges.crowdin.net/many-mods-translation/localized.svg)|

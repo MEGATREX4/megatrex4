@@ -7,9 +7,41 @@ I want as many projects as possible to be in Ukrainian, so I will work hard on t
 
 <br/>* 👯 I’m looking to collaborate on everyone
 <br/>* 💬 Ask me about translate ur mod
-<br/>* 📫 How to reach me: megatrex4@yahoo.com or MEGATREX4#2993
+<br/>* 📫 How to reach me: megatrex4@yahoo.com or Discord MEGATREX4
 <br/>* ⚡ Fun fact: i like anime.<br/>
 
-🔭 I’m currently working on this mod translation for minecraft<br/><br/><br/>
+🔭 I’m currently working on this mod for minecraft<br/><br/><br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=megatrex4)](https://github.com/anuraghazra/github-readme-stats) 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MEGATREX4&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 
-[![Main](https://img.shields.io/badge/main%20project-UA--Translation-lightgrey.svg)](https://github.com/SKZGx/UA-Translation)
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://youtube.com/@megatrex4" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://www.twitch.tv/megatrex4" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  </a>
+  <a href="https://t.me/modCheck" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="https://x.com/megatrex4" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>

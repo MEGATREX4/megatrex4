@@ -1,21 +1,39 @@
-### Hi there 👋
+# Hi there, I'm MEGATREX4! 👋
 
-YouTuber<br/>
-Twitch streamer<br />
-Volunteer translation into Ukrainian.<br/>
-I want as many projects as possible to be in Ukrainian, so I will work hard on this.<br/>
+**Translator • Streamer • YouTuber • Minecraft Mod Developer • Web Enthusiast**
 
-<br/>* 👯 I’m looking to collaborate on everyone
-<br/>* 💬 Ask me about translate ur mod
-<br/>* 📫 How to reach me: megatrex4@yahoo.com or Discord MEGATREX4
-<br/>* ⚡ Fun fact: i like anime.<br/>
+---
 
-🔭 I’m currently working on this mod for minecraft<br/><br/><br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=megatrex4)](https://github.com/anuraghazra/github-readme-stats) 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MEGATREX4&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+- 🎮  I create Minecraft mods in Java and love to bring new ideas to the game.
+- 🌐  I build websites with HTML, CSS, and JavaScript.
+- 🎥  I stream and make videos on YouTube and Twitch.
+- 🌍  I volunteer to translate projects into Ukrainian — my goal is to make as many projects as possible accessible to the Ukrainian community.
+- 💬  Open to collaboration, especially for translations or cool modding ideas!
+- 👾  I enjoy anime, music, and all sorts of creative internet stuff.
 
-###
+> I appreciate people who are both professional and know how to have fun.
 
+---
+
+## 🛠️ Top Skills
+
+- **Languages & Tools:** Java, HTML, CSS, JavaScript
+- **Minecraft Modding:** Custom features, localization, and community-driven mods
+- **Content Creation:** YouTube, Twitch, streaming, editing
+
+---
+
+## 🌟 Favorite Projects
+
+- Currently working on: *A cool Minecraft mod* (details coming soon!)
+- Always open to new open source or closed source collaborations — if it's interesting, I'm in!
+
+---
+
+## 📫 All my socials & contact links:
+👉 [megatrex4.netlify.app](https://megatrex4.netlify.app/)
+
+Or find me here:
 <div align="center">
   <a href="https://youtube.com/@megatrex4" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
@@ -30,3 +48,12 @@ I want as many projects as possible to be in Ukrainian, so I will work hard on t
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+[![MEGATREX4's GitHub stats](https://github-readme-stats.vercel.app/api?username=megatrex4)](https://github.com/anuraghazra/github-readme-stats) 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MEGATREX4&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+
+---

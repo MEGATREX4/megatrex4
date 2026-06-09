@@ -52,17 +52,6 @@ I appreciate people who are professional, open-minded, and know how to enjoy the
 
 ---
 
-## Current Focus
-
-- Minecraft mod development
-- Fabric 1.20.1 projects
-- Mod compatibility and APIs
-- Datapack-driven systems
-- Web portfolio improvements
-- Ukrainian localization work
-
----
-
 ## Featured Work
 
 You can find my projects and portfolio here:

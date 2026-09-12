@@ -2,51 +2,50 @@
 
 **Junior Full-Stack Developer | Minecraft Mod Developer | Translator | Content Creator**
 
-I build Minecraft mods, websites, and creative digital content. My work combines programming with design, video, localization, and community-focused projects.
+I build Minecraft mods, websites, videos, translations and all kinds of creative stuff.  
+I mix programming with design, video, localization and community projects. Not just "writing code" — I try to make things I wouldn't be ashamed to actually use myself.
 
-I mainly work with Java, Fabric, Spigot/Paper, HTML, CSS, JavaScript, and React. I also volunteer to translate projects into Ukrainian to make more tools, mods, and communities accessible to Ukrainian users.
+Main stack: Java, Fabric, Spigot/Paper, HTML, CSS, JavaScript and React.  
+I also volunteer to translate projects into Ukrainian, because it honestly pisses me off when decent tools and mods are available to everyone except us.
 
-I appreciate people who are professional, open-minded, and know how to enjoy the creative process.
+I appreciate people who are professional, open-minded and know how to enjoy the process without the usual corporate bullshit.
 
 ---
 
 ## About Me
 
-- I create Minecraft mods in Java, mostly for Fabric.
-- I develop plugins for Spigot/Paper servers.
-- I build websites using HTML, CSS, JavaScript, and React.
-- I work with responsive layouts, bug fixes, and frontend improvements.
-- I create 3D models and Minecraft-style assets with Blockbench.
-- I make videos, thumbnails, and channel visuals for social media.
-- I translate projects into Ukrainian as a volunteer.
-- I am open to collaboration on modding, web, translation, and creative projects.
+- I create Minecraft mods in Java, mostly for Fabric
+- I develop plugins for Spigot/Paper servers
+- I build websites with HTML, CSS, JavaScript and React
+- I work with responsive layouts, bug fixes and frontend improvements
+- I make 3D models and Minecraft-style assets in Blockbench
+- I create videos, thumbnails and channel visuals
+- I translate projects into Ukrainian as a volunteer
+- I'm open to collaboration on modding, web, translation and creative projects
 
 ---
 
 ## Skills
 
-### Programming and Web
-
+### Programming & Web
 - Java
 - JavaScript
 - HTML5
 - CSS3 / SCSS
-- ReactJS
-- Git and GitHub
+- React
+- Git & GitHub
 
 ### Minecraft Development
-
 - Fabric modding
 - Spigot/Paper plugin development
 - Minecraft server setup and optimization
-- Localization and translation support
-- Modrinth and CurseForge publishing
+- Localization and translation
+- Publishing on Modrinth and CurseForge
 
 ### Creative Work
-
 - Blockbench modeling
 - Minecraft-style animations
-- Video editing for TikTok, YouTube Shorts, and Reels
+- Video editing for TikTok, YouTube Shorts and Reels
 - Thumbnails and channel design
 - Streaming and content creation
 
@@ -54,7 +53,7 @@ I appreciate people who are professional, open-minded, and know how to enjoy the
 
 ## Featured Work
 
-You can find my projects and portfolio here:
+You can find my stuff here:
 
 - Website: [megatrex4.netlify.app](https://megatrex4.netlify.app/)
 - Portfolio: [megatrex4.netlify.app/portfolio](https://megatrex4.netlify.app/portfolio)
@@ -66,21 +65,21 @@ You can find my projects and portfolio here:
 
 ## Collaboration
 
-I am open to:
+I'm open to:
 
 - Minecraft mod development
 - Fabric mod compatibility
 - Spigot/Paper plugins
 - Website development
-- Ukrainian translation/localization
+- Ukrainian translation / localization
 - Modpack and server projects
 - Creative media work
 
-If the idea is interesting, I am open to discussing it.
+If the idea is actually interesting — we can talk.
 
 ---
 
-## Contact and Socials
+## Contact & Socials
 
 <div align="center">
   <a href="https://megatrex4.netlify.app/" target="_blank">
@@ -105,6 +104,6 @@ If the idea is interesting, I am open to discussing it.
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MEGATREX4&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MEGATREX4&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=MEGATREX4&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MEGATREX4&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="Top languages" />
 </div>
